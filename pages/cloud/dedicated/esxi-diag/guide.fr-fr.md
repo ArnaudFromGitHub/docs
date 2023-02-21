@@ -121,7 +121,7 @@ Sous l'onglet `Name`, faites défiler la liste et faites un clic droit sur `TSM-
 
 Modifiez la `Policy` comme sur l'exemple présenté et choisissez l'option `Start an stop manually`{.action} afin d'éviter que le service ne soit actif au démarrage du serveur.  
 
-Arrêtez le service :
+Arrêtez le service :  
 ![services_ssh](images/stop_service.png){.thumbnail}
 
 Selectionnez la `Policy`:  
